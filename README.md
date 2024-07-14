@@ -23,3 +23,6 @@ Mine block : "https://almightyonion5145.pythonanywhere.com/mine_block" type : GE
 
 Check validity chain: "https://almightyonion5145.pythonanywhere.com/is_valid" type : GET
 
+
+Mongo Db connection string : mongodb+srv://abhisheksingh5145:64DSSYAmRzkqHCMh@clovecluster.z23uu9f.mongodb.net/
+
